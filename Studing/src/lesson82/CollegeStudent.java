@@ -14,5 +14,5 @@ public class CollegeStudent extends Student{
 	public CollegeStudent(String firstName, String lastName, int groupe, Course[] coursesTaken) {
 		super(firstName, lastName, groupe, coursesTaken);
 	}
-	
+	// testing git hub with pushing
 }
